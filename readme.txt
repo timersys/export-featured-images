@@ -1,9 +1,9 @@
-=== WP Export Categories & Taxonomies ===
+===Export Featured Images ===
 Author: Damian Logghe
 Contributors: timersys
 Website: http://www.timersys.com
-Tags: export categories, export tags, export taxonomies, categories, taxonomies, tags, export, category export, tax export
-Stable tag: 1.0.1
+Tags: export images, export featured images, export featured, featured image, export, 
+Stable tag: 1.0
 Tested up to: 3.8
 License: GPLv2 or later
 
@@ -11,13 +11,13 @@ Export Categories, Tags and Taxonomies
 
 == Description ==
 
-Simple and basic plugin that let you export Categories, Tags and Taxonomies into a Wordpress xml so you can import them in other sites using the Wordpress importer tool
+Simple and basic plugin that let you export Featured images from posts or custom post types into a Wordpress xml so you can import them in other sites using the Wordpress importer tool
 
 == Installation ==
 
 1. Go to Plugins > Add New
 1. Click the Upload link
-1. Click Browse and locate the `wp-export-categories.x.x.zip` file
+1. Click Browse and locate the `featured-images.x.x.zip` file
 1. Click Install Now
 1. After WordPress installs, click on the Activate Plugin link
 
@@ -27,13 +27,9 @@ You're done!
 
 = Where do I find this great tool in my wp-admin? =
 
-Just go to Tools-> WP Export Cats & Taxs
+Just go to Tools-> Export Featured images
 
 == Changelog ==
-
-= 1.0.1 =
-
-* Fixed fatal error including settings. Sorry :)
 
 = 1.0 =
 * Plugin released, woohoo!
